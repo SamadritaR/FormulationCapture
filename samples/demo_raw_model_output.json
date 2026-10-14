@@ -1,0 +1,601 @@
+{
+  "paper_notes": "Synthetic demo paper. F2 drug load differs between text and Table 1. F4 stability results are deferred to another report.",
+  "formulations": [
+    {
+      "label": "F1",
+      "fields": {
+        "drug_name": {
+          "value": "Compound X",
+          "unit": null,
+          "quote": "Formulation F1 contained Compound X and Kollidon VA64",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "drug_load_pct": {
+          "value": 20,
+          "unit": "% w/w",
+          "quote": "Kollidon VA64 at a drug load of 20% w/w",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "carrier_polymer": {
+          "value": "Kollidon VA64",
+          "unit": null,
+          "quote": "Formulation F1 contained Compound X and Kollidon VA64",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "other_excipients": {
+          "value": [],
+          "unit": null,
+          "quote": "F1  Compound X 20%  Kollidon VA64 80%",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "method": {
+          "value": "hot melt extrusion",
+          "unit": null,
+          "quote": "2.2 Hot melt extrusion",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "process_temperature_c": {
+          "value": 150,
+          "unit": "°C",
+          "quote": "maximum barrel temperature of 150 °C",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "screw_speed_rpm": {
+          "value": 100,
+          "unit": "rpm",
+          "quote": "screw speed of 100 rpm",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "solvent": {
+          "value": null,
+          "unit": null,
+          "quote": null,
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "missing"
+          ],
+          "note": null
+        },
+        "tg_c": {
+          "value": 98,
+          "unit": "°C",
+          "quote": "The glass transition temperature of F1 was 98 °C",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "amorphous_confirmed": {
+          "value": "yes",
+          "unit": null,
+          "quote": "F1 and F2 were fully amorphous by XRPD after extrusion.",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "confirmation_method": {
+          "value": "XRPD and modulated DSC",
+          "unit": null,
+          "quote": "Solid state was assessed by XRPD and modulated DSC.",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_condition": {
+          "value": "40 °C / 75% RH",
+          "unit": null,
+          "quote": "stored open at 40 °C / 75% RH for 3 months",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_duration_weeks": {
+          "value": 3,
+          "unit": "months",
+          "quote": "40 °C / 75% RH for 3 months",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_outcome": {
+          "value": "remained amorphous",
+          "unit": null,
+          "quote": "F1 remained amorphous at 3 months.",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "dissolution_outcome": {
+          "value": "fourfold increase in AUC vs crystalline drug in FaSSIF",
+          "unit": null,
+          "quote": "fourfold increase in AUC for F1 relative to crystalline drug",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        }
+      }
+    },
+    {
+      "label": "F2",
+      "fields": {
+        "drug_name": {
+          "value": "Compound X",
+          "unit": null,
+          "quote": "Formulation F2 contained Compound X, Kollidon VA64 and 5% Vitamin E TPGS",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "drug_load_pct": {
+          "value": 30,
+          "unit": "% w/w",
+          "quote": "Vitamin E TPGS at a drug load of 30% w/w",
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "conflicting"
+          ],
+          "note": "Methods text says 30% w/w; Table 1 lists Compound X at 25%."
+        },
+        "carrier_polymer": {
+          "value": "Kollidon VA64",
+          "unit": null,
+          "quote": "Formulation F2 contained Compound X, Kollidon VA64 and 5% Vitamin E TPGS",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "other_excipients": {
+          "value": [
+            {
+              "name": "Vitamin E TPGS",
+              "pct": 5
+            }
+          ],
+          "unit": null,
+          "quote": "Kollidon VA64 and 5% Vitamin E TPGS",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "method": {
+          "value": "hot melt extrusion",
+          "unit": null,
+          "quote": "2.2 Hot melt extrusion",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "process_temperature_c": {
+          "value": 150,
+          "unit": "°C",
+          "quote": "maximum barrel temperature of 150 °C",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "screw_speed_rpm": {
+          "value": 100,
+          "unit": "rpm",
+          "quote": "screw speed of 100 rpm",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "solvent": {
+          "value": null,
+          "unit": null,
+          "quote": null,
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "missing"
+          ],
+          "note": null
+        },
+        "tg_c": {
+          "value": null,
+          "unit": null,
+          "quote": null,
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "missing"
+          ],
+          "note": null
+        },
+        "amorphous_confirmed": {
+          "value": "yes",
+          "unit": null,
+          "quote": "F1 and F2 were fully amorphous by XRPD after extrusion.",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "confirmation_method": {
+          "value": "XRPD and modulated DSC",
+          "unit": null,
+          "quote": "Solid state was assessed by XRPD and modulated DSC.",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_condition": {
+          "value": "40 °C / 75% RH",
+          "unit": null,
+          "quote": "stored open at 40 °C / 75% RH for 3 months",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_duration_weeks": {
+          "value": 3,
+          "unit": "months",
+          "quote": "40 °C / 75% RH for 3 months",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_outcome": {
+          "value": "recrystallized within 4 weeks",
+          "unit": null,
+          "quote": "F2 recrystallized within 4 weeks.",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "dissolution_outcome": {
+          "value": null,
+          "unit": null,
+          "quote": null,
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "missing"
+          ],
+          "note": null
+        }
+      }
+    },
+    {
+      "label": "F3",
+      "fields": {
+        "drug_name": {
+          "value": "Compound X",
+          "unit": null,
+          "quote": "dissolving Compound X and HPMCAS-MG at a ratio of 1:3 in acetone",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "drug_load_pct": {
+          "value": "1:3",
+          "unit": null,
+          "quote": "HPMCAS-MG at a ratio of 1:3 in acetone",
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "ambiguous"
+          ],
+          "note": "Ratio given without saying whether it is by weight or molar."
+        },
+        "carrier_polymer": {
+          "value": "HPMCAS-MG",
+          "unit": null,
+          "quote": "dissolving Compound X and HPMCAS-MG at a ratio of 1:3",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "other_excipients": {
+          "value": [],
+          "unit": null,
+          "quote": "F3  Compound X 25%  HPMCAS-MG 75%",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "method": {
+          "value": "spray drying",
+          "unit": null,
+          "quote": "2.3 Spray drying",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "process_temperature_c": {
+          "value": 85,
+          "unit": "°C",
+          "quote": "spray drying with an inlet temperature of 85 °C",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "screw_speed_rpm": {
+          "value": null,
+          "unit": null,
+          "quote": null,
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "missing"
+          ],
+          "note": null
+        },
+        "solvent": {
+          "value": "acetone",
+          "unit": null,
+          "quote": "HPMCAS-MG at a ratio of 1:3 in acetone",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "tg_c": {
+          "value": 112,
+          "unit": "°C",
+          "quote": "of F3 was 112 °C",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "amorphous_confirmed": {
+          "value": "yes",
+          "unit": null,
+          "quote": "F3 was amorphous by XRPD.",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "confirmation_method": {
+          "value": "XRPD",
+          "unit": null,
+          "quote": "F3 was amorphous by XRPD.",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_condition": {
+          "value": "40 °C / 75% RH",
+          "unit": null,
+          "quote": "stored open at 40 °C / 75% RH for 3 months",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_duration_weeks": {
+          "value": 3,
+          "unit": "months",
+          "quote": "40 °C / 75% RH for 3 months",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_outcome": {
+          "value": "remained amorphous",
+          "unit": null,
+          "quote": "F3 remained amorphous.",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "dissolution_outcome": {
+          "value": "maintained supersaturation for 3 hours",
+          "unit": null,
+          "quote": "F3 maintained supersaturation for 3 hours.",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        }
+      }
+    },
+    {
+      "label": "F4",
+      "fields": {
+        "drug_name": {
+          "value": "Compound X",
+          "unit": null,
+          "quote": "Formulation F4 contained Compound X, HPMCAS-MG and 2% Lutrol F68",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "drug_load_pct": {
+          "value": 25,
+          "unit": "% w/w",
+          "quote": "Lutrol F68 at a drug load of 25% w/w",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "carrier_polymer": {
+          "value": "HPMCAS-MG",
+          "unit": null,
+          "quote": "Formulation F4 contained Compound X, HPMCAS-MG and 2% Lutrol F68",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "other_excipients": {
+          "value": [
+            {
+              "name": "Lutrol F68",
+              "pct": 2
+            }
+          ],
+          "unit": null,
+          "quote": "HPMCAS-MG and 2% Lutrol F68",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "method": {
+          "value": "spray drying",
+          "unit": null,
+          "quote": "was spray dried under the same conditions",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "process_temperature_c": {
+          "value": 85,
+          "unit": "°C",
+          "quote": "spray drying with an inlet temperature of 85 °C",
+          "page": null,
+          "confidence": "medium",
+          "flags": [
+            "low_confidence"
+          ],
+          "note": "Inferred from 'under the same conditions' as F3."
+        },
+        "screw_speed_rpm": {
+          "value": null,
+          "unit": null,
+          "quote": null,
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "missing"
+          ],
+          "note": null
+        },
+        "solvent": {
+          "value": "acetone",
+          "unit": null,
+          "quote": "HPMCAS-MG at a ratio of 1:3 in acetone",
+          "page": null,
+          "confidence": "medium",
+          "flags": [
+            "low_confidence"
+          ],
+          "note": "Solvent stated only for F3; F4 says same conditions."
+        },
+        "tg_c": {
+          "value": null,
+          "unit": null,
+          "quote": null,
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "missing"
+          ],
+          "note": null
+        },
+        "amorphous_confirmed": {
+          "value": "partial",
+          "unit": null,
+          "quote": "it was classed as partially amorphous",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "confirmation_method": {
+          "value": "XRPD",
+          "unit": null,
+          "quote": "F4 showed small crystalline peaks after spray drying",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_condition": {
+          "value": "40 °C / 75% RH",
+          "unit": null,
+          "quote": "stored open at 40 °C / 75% RH for 3 months",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": "Also stored at 25 °C / 60% RH."
+        },
+        "stability_duration_weeks": {
+          "value": 3,
+          "unit": "months",
+          "quote": "40 °C / 75% RH for 3 months",
+          "page": null,
+          "confidence": "high",
+          "flags": [],
+          "note": null
+        },
+        "stability_outcome": {
+          "value": null,
+          "unit": null,
+          "quote": null,
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "missing"
+          ],
+          "note": "Paper defers F4 stability to a separate report."
+        },
+        "dissolution_outcome": {
+          "value": null,
+          "unit": null,
+          "quote": null,
+          "page": null,
+          "confidence": "high",
+          "flags": [
+            "missing"
+          ],
+          "note": null
+        }
+      }
+    }
+  ]
+}

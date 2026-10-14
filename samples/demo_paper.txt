@@ -1,0 +1,37 @@
+[PAGE 1]
+SYNTHETIC DEMO PAPER. Written for testing this tool. It describes no real study and its numbers must not be used for anything.
+
+Improving the Dissolution of Compound X Through Amorphous Solid Dispersions Prepared by Hot Melt Extrusion and Spray Drying
+
+Abstract
+Compound X is a poorly water soluble weak base. Amorphous solid dispersions were prepared with Kollidon VA64 and HPMCAS-MG by hot melt extrusion and by spray drying. All extrudates were amorphous by XRPD. The copovidone dispersion at 20% drug load showed a fourfold increase in dissolution relative to crystalline drug.
+
+2. Materials and Methods
+2.1 Materials
+Compound X was supplied by the sponsor. Kollidon VA64 was obtained from BASF. HPMCAS-MG (AQOAT AS-MG) was obtained from Shin-Etsu. Vitamin E TPGS and Lutrol F68 were used as surfactants.
+
+2.2 Hot melt extrusion
+Formulation F1 contained Compound X and Kollidon VA64 at a drug load of 20% w/w. Formulation F2 contained Compound X, Kollidon VA64 and 5% Vitamin E TPGS at a drug load of 30% w/w. Extrusion was performed on a 16 mm twin screw extruder at a screw speed of 100 rpm with a maximum barrel temperature of 150 °C.
+
+[PAGE 2]
+2.3 Spray drying
+Formulation F3 was prepared by dissolving Compound X and HPMCAS-MG at a ratio of 1:3 in acetone and spray drying with an inlet temperature of 85 °C. Formulation F4 contained Compound X, HPMCAS-MG and 2% Lutrol F68 at a drug load of 25% w/w and was spray dried under the same conditions.
+
+2.4 Characterization
+Solid state was assessed by XRPD and modulated DSC. The glass transition temperature of F1 was 98 °C and of F3 was 112 °C.
+
+2.5 Stability
+Samples were stored open at 40 °C / 75% RH for 3 months. F4 was additionally stored at 25 °C / 60% RH.
+
+[PAGE 3]
+3. Results
+F1 and F2 were fully amorphous by XRPD after extrusion. F3 was amorphous by XRPD. F4 showed small crystalline peaks after spray drying, so it was classed as partially amorphous.
+After storage, F1 remained amorphous at 3 months. F2 recrystallized within 4 weeks. F3 remained amorphous. The stability of F4 is discussed in a separate report.
+
+Table 1. Composition of formulations.
+F1  Compound X 20%  Kollidon VA64 80%
+F2  Compound X 25%  Kollidon VA64 70%  TPGS 5%
+F3  Compound X 25%  HPMCAS-MG 75%
+F4  Compound X 25%  HPMCAS-MG 73%  Lutrol F68 2%
+
+Dissolution in FaSSIF showed a fourfold increase in AUC for F1 relative to crystalline drug. F3 maintained supersaturation for 3 hours.

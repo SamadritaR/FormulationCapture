@@ -1,0 +1,27 @@
+[
+  {
+    "label": "F1",
+    "fields": {
+      "drug_name": "Drug name as written",
+      "drug_load_pct": 20,
+      "carrier_polymer": "Kollidon VA64",
+      "other_excipients": [
+        {
+          "name": "Vitamin E TPGS",
+          "pct": 5
+        }
+      ],
+      "method": "hme",
+      "process_temperature_c": 150,
+      "screw_speed_rpm": 100,
+      "solvent": null,
+      "tg_c": 98,
+      "amorphous_confirmed": "yes",
+      "confirmation_method": "XRPD",
+      "stability_condition": "40 °C / 75% RH",
+      "stability_duration_weeks": 13,
+      "stability_outcome": "remained amorphous",
+      "dissolution_outcome": "one line on the reported result"
+    }
+  }
+]

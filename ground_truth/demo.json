@@ -1,0 +1,78 @@
+[
+  {
+    "label": "F1",
+    "fields": {
+      "drug_name": "Compound X",
+      "method": "hme",
+      "stability_condition": "40 °C / 75% RH",
+      "stability_duration_weeks": 13,
+      "drug_load_pct": 20,
+      "carrier_polymer": "copovidone",
+      "other_excipients": [],
+      "process_temperature_c": 150,
+      "screw_speed_rpm": 100,
+      "tg_c": 98,
+      "amorphous_confirmed": "yes",
+      "stability_outcome": "remained amorphous",
+      "dissolution_outcome": "fourfold AUC increase vs crystalline"
+    }
+  },
+  {
+    "label": "F2",
+    "fields": {
+      "drug_name": "Compound X",
+      "method": "hme",
+      "stability_condition": "40 °C / 75% RH",
+      "stability_duration_weeks": 13,
+      "drug_load_pct": 25,
+      "carrier_polymer": "copovidone",
+      "other_excipients": [
+        {
+          "name": "TPGS",
+          "pct": 5
+        }
+      ],
+      "process_temperature_c": 150,
+      "tg_c": null,
+      "amorphous_confirmed": "yes",
+      "stability_outcome": "recrystallized within 4 weeks",
+      "dissolution_outcome": null
+    }
+  },
+  {
+    "label": "F3",
+    "fields": {
+      "drug_name": "Compound X",
+      "method": "spray_drying",
+      "stability_condition": "40 °C / 75% RH",
+      "stability_duration_weeks": 13,
+      "drug_load_pct": 25,
+      "carrier_polymer": "HPMCAS-MG",
+      "solvent": "acetone",
+      "process_temperature_c": 85,
+      "tg_c": 112,
+      "amorphous_confirmed": "yes",
+      "stability_outcome": "remained amorphous"
+    }
+  },
+  {
+    "label": "F4",
+    "fields": {
+      "drug_name": "Compound X",
+      "method": "spray_drying",
+      "stability_condition": "40 °C / 75% RH",
+      "stability_duration_weeks": 13,
+      "drug_load_pct": 25,
+      "carrier_polymer": "HPMCAS-MG",
+      "other_excipients": [
+        {
+          "name": "Poloxamer 188",
+          "pct": 2
+        }
+      ],
+      "tg_c": null,
+      "amorphous_confirmed": "partial",
+      "stability_outcome": null
+    }
+  }
+]

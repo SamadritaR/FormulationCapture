@@ -1,0 +1,4 @@
+streamlit>=1.40
+anthropic>=0.40
+pypdf>=4.0
+pytest>=8.0
