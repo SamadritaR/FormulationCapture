@@ -81,7 +81,7 @@ Two real bugs found and fixed, each now covered by a test:
 
 ## Why I built this
 
-Persist AI's formulation AI learns from each customer's own data, and that data mostly lives in reports and papers. This is a working sample of the capture and trust layer that sits in front of a model like that: every value traceable to a sentence, every gap visible, a person in the loop. It is an independent project, not affiliated with Persist AI, and it makes no claims about how their product works.
+Formulation AI models learn from a lab's own data, and most of that data still lives in reports and papers. This is a working sample of the capture and trust layer that sits in front of a model like that: every value traceable to a sentence, every gap visible, a person in the loop. It is an independent project, built on my own to explore that problem.
 
 ## What this does not do
 
